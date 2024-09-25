@@ -40,7 +40,7 @@ Follow the notebooks in sequence:
 - 02-EDA.ipynb: Perform exploratory data analysis and generate visualizations.
 - 03-Data-Ingestion.ipynb: Load cleaned data and prepare for further analysis.
 
-##Visualizations
+## Visualizations
 In addition to the static visualizations created with Matplotlib and Seaborn, an interactive dashboard has been created using Tableau Public. This dashboard allows users to explore the data dynamically, filter by department or job title, and visualize salary trends across different categories. The Tableau Public visualization can be accessed here.
 
 These visualizations can also be found in the visuals/ folder.
@@ -51,7 +51,7 @@ Through the analysis of the City of Boston's employee salary dataset, several ke
 
 1. 
 
-##Contributions
+## Contributions
 Contributions are welcome! Please open an issue or submit a pull request if you would like to contribute to this project.
 
 ## Installation Instructions
