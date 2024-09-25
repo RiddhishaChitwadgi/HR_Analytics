@@ -38,7 +38,7 @@ Open each Jupyter Notebook (.ipynb) in a Jupyter environment to execute the code
 Follow the notebooks in sequence:
 - 01-Data-Cleaning.ipynb: Load and clean the dataset.
 - 02-EDA.ipynb: Perform exploratory data analysis and generate visualizations.
-- 03-Data-Ingestion.ipynb: Load cleaned data and prepare for further analysis.
+- 03-Data-Ingestion.ipynb: Load cleaned data and ingest into database.
 
 ## Visualizations
 In addition to the static visualizations created with Matplotlib and Seaborn, an interactive dashboard has been created using Tableau Public. This dashboard allows users to explore the data dynamically, filter by department or job title, and visualize salary trends across different categories. The Tableau Public visualization can be accessed here.
