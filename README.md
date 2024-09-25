@@ -11,7 +11,6 @@ This project focuses on analyzing and improving operational efficiencies within 
 - [Usage](#usage)
 - [Visualizations](#visualizations)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## Dataset Description
 The dataset contains employee salary information from the City of Boston, including:
